@@ -1,0 +1,15 @@
+{
+    "name": "lil/imageabstractor",
+    "description": "Simple example pulling colors out of an image.",
+    "type": "project",
+    "license": "GPL 3.0",
+    "authors": [
+        {
+            "name": "Krishna Shrestha",
+            "email": "lifeisgood.ks99@gmail.com"
+        }
+    ],
+    "require": {
+        "league/color-extractor": "0.3.*"
+    }
+}
